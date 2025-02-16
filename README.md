@@ -1,54 +1,43 @@
-<header>
-
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
-
-# GitHub Pages
-
-_Create a site or blog from your GitHub repositories with GitHub Pages._
-
-</header>
-
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
-
-## Step 1: Enable GitHub Pages
-
-_Welcome to GitHub Pages and Jekyll :tada:!_
-
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
-
-### :keyboard: Activity: Enable GitHub Pages
-
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+<h1 style="text-align: center;"><strong>Well Water Testing in Durham Ensure Safe Drinking Water for Your Home</strong></h1>
+<p>&nbsp;</p>
+<p style="text-align: justify;"><a href="https://www.thewaterspecialist.com/well-water-testing-raleigh-durham-chapel-hill/" target="_blank"><strong>Well water testing Durham</strong></a><span style="font-weight: 400;"> is vital for your health and well-being. Many residents depend on well water for daily activities such as drinking, cooking, and cleaning. However, unlike municipal water, well water is not treated, which means it can contain harmful contaminants like bacteria, heavy metals, and chemicals that could affect your health. Regular testing is essential to ensure that your water is clean and safe to use. By testing your well water, you can identify any potential risks early and take action to resolve them. In this article, we&rsquo;ll discuss why well water testing is so important and provide useful tips on how to test your well water in Durham. Understanding the process of well water testing will help you maintain the safety of your water supply and protect your family&rsquo;s health. Let&rsquo;s dive in and learn more!</span></p>
+<p style="text-align: justify;">&nbsp;</p>
+<p><span style="font-weight: 400;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBF94ui5-dOOZWBFJgheW47TsvUmqpEUvNaA&amp;s" alt="" width="339" height="211" /></span></p>
+<h2 style="text-align: justify;">&nbsp;</h2>
+<h2 style="text-align: justify;"><strong>Why Test Your Well Water?</strong></h2>
+<p>&nbsp;</p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Testing your well water is important for many reasons. First, it ensures that your water is safe to drink. Contaminated water can have harmful bacteria. These bacteria can make you sick. Second, testing can find chemicals in your water. Some chemicals can cause long-term health issues. Third, it helps you understand the quality of your water. Knowing the quality can help you make better decisions. Lastly, regular testing can prevent problems. It can help you fix issues before they get worse.</span></p>
+<p style="text-align: justify;">&nbsp;</p>
+<h2 style="text-align: justify;"><strong>Common Contaminants in Well Water</strong></h2>
+<p>&nbsp;</p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Well water can have different contaminants. Some common ones are bacteria, nitrates, and heavy metals. Bacteria can come from animal waste. Nitrates often come from fertilizers. Heavy metals can come from the ground. These contaminants can cause health issues. Bacteria can cause stomach problems. Nitrates can harm babies. Heavy metals can cause serious diseases. Testing can find these contaminants. It helps you take action to remove them.</span></p>
+<p style="text-align: justify;">&nbsp;</p>
+<h2 style="text-align: justify;"><strong>How to Test Your Well Water</strong></h2>
+<p>&nbsp;</p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Testing your well water is easy. You can do it yourself or hire a professional. If you do it yourself, you need a test kit. These kits are easy to use. You collect a water sample and send it to a lab. The lab will test the sample and give you results. If you hire a professional, they will do the work for you. They will collect the sample and test it. Professionals can also give you advice. They can tell you how to fix any issues.</span></p>
+<p style="text-align: justify;">&nbsp;</p>
+<h2 style="text-align: justify;"><strong>When to Test Your Well Water</strong></h2>
+<p>&nbsp;</p>
+<p style="text-align: justify;"><span style="font-weight: 400;">You should test your well water at least once a year. This is a good rule to follow. However, there are times when you should test more often. Test your water if there is a change in taste, smell, or color. Test if someone in your house gets sick. Test after any repairs to your well. These tests can catch problems early. Regular testing keeps your water safe.</span></p>
+<p style="text-align: justify;">&nbsp;</p>
+<h2 style="text-align: justify;"><strong>Frequently Asked Questions</strong></h2>
+<p>&nbsp;</p>
+<h3 style="text-align: justify;"><strong>What Is Well Water Testing?</strong></h3>
+<p>&nbsp;</p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Well water testing checks for contaminants in your water. It ensures your water is safe to drink.</span></p>
+<p style="text-align: justify;">&nbsp;</p>
+<h3 style="text-align: justify;"><strong>Why Is Well Water Testing Important?</strong></h3>
+<p>&nbsp;</p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Testing detects harmful substances like bacteria and chemicals. It ensures safe drinking water for your family.</span></p>
+<p style="text-align: justify;">&nbsp;</p>
+<h3 style="text-align: justify;"><strong>How Often Should You Test Well Water?</strong></h3>
+<p>&nbsp;</p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Test your well water annually. Frequent testing ensures you catch any changes in water quality early.</span></p>
+<p style="text-align: justify;">&nbsp;</p>
+<h3 style="text-align: justify;"><strong>What Contaminants Are Found In Well Water?</strong></h3>
+<p>&nbsp;</p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Common contaminants include bacteria, nitrates, and heavy metals. Testing identifies these and helps you address them.</span></p>
+<p style="text-align: justify;">&nbsp;</p>
+<h2 style="text-align: justify;"><strong>Conclusion</strong></h2>
+<p>&nbsp;</p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Well water testing in Durham is very important. It keeps your water safe and clean. Testing can find harmful contaminants. It can help you make your water better. You can test your water yourself or hire a professional. Remember to test your water at least once a year. Testing more often is better. Keep your family safe. Test your well water regularly.</span></p>
